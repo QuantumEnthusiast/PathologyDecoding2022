@@ -1,0 +1,50 @@
+Title,Authors,Journal,Year,DOI,Source
+Human Emotion Classification based on EEG Signals Using Recurrent Neural Network And KNN,"Shashank Joshi, Falak Joshi",preprints,2022,,Arxiv
+Characterizing TMS-EEG perturbation indexes using signal energy: initial study on Alzheimer's Disease classification,"Alexandra-Maria Tautan, Elias Casula, Ilaria Borghi, Michele Maiella, Sonia Bonni, Marilena Minei, Martina Assogna, Bogdan Ionescu, Giacomo Koch, Emiliano Santarnecchi",preprints,2022,,Arxiv
+EEG-ITNet: An Explainable Inception Temporal Convolutional Network for Motor Imagery Classification,"Abbas Salami, Javier Andreu-Perez, Helge Gillmeister",preprints,2022,,Arxiv
+SSGCNet: A Sparse Spectra Graph Convolutional Network for Epileptic EEG Signal Classification,"Jialin Wang, Rui Gao, Haotian Zheng, Hao Zhu, C. -J. Richard Shi",preprints,2022,,Arxiv
+Efficacy of Transformer Networks for Classification of Raw EEG Data,"Gourav Siddhad, Anmol Gupta, Debi Prosad Dogra, Partha Pratim Roy",preprints,2022,,Arxiv
+Spectro Temporal EEG Biomarkers For Binary Emotion Classification,"Upasana Tiwari, Rupayan Chakraborty, Sunil Kumar Kopparapu",preprints,2022,,Arxiv
+Image-based eeg classification of brain responses to song recordings,"Adolfo G. Ramirez-Aristizabal, Mohammad K. Ebrahimpour, Christopher T. Kello",preprints,2022,,Arxiv
+An Olfactory EEG Signal Classification Network Based on Frequency Band Feature Extraction,"Biao Sun, Zhigang Wei, Pei Liang, Huirang Hou",preprints,2022,,Arxiv
+Automated Feature Extraction on AsMap for Emotion Classification using EEG,"Zaved Iqubal Ahmed, Nidul Sinha, Souvik Phadikar, Ebrahim Ghaderpour",preprints,2022,,Arxiv
+Enhanced motor imagery-based EEG classification using a discriminative graph Fourier subspace,"Maliheh Miri, Vahid Abootalebi, Hamid Behjat",preprints,2022,,Arxiv
+Multiple Time Series Fusion Based on LSTM An Application to CAP A Phase Classification Using EEG,"Fábio Mendonça, Sheikh Shanawaz Mostafa, Diogo Freitas, Fernando Morgado-Dias, Antonio G. Ravelo-García",preprints,2021,,Arxiv
+Multispectral Riemannian Classification for EEG-based Brain--Machine Interfaces,"Xiaying Wang, Lukas Cavigelli, Tibor Schneider, Luca Benini",preprints,2021,,Arxiv
+Reading Task Classification Using EEG and Eye-Tracking Data,"Nora Hollenstein, Marius Tröndle, Martyna Plomecka, Samuel Kiegeland, Yilmazcan Özyurt, Lena A. Jäger, Nicolas Langer",preprints,2021,,Arxiv
+Improving Intention Detection in Single-Trial Classification through Fusion of EEG and Eye-tracker Data,"Xianliang Ge, Yunxian Pan, Sujie Wang, Linze Qian, Jingjia Yuan, Jie Xu, Nitish Thakor, Yu Sun",preprints,2021,,Arxiv
+Neural Network Based Epileptic EEG Detection and Classification,"Shivam Gupta, Jyoti Meena, O. P Gupta",preprints,2021,,Arxiv
+Riemannian classification of EEG signals with missing values,"Alexandre Hippert-Ferrer, Ammar Mian, Florent Bouchard, Frédéric Pascal",preprints,2021,,Arxiv
+Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm,"Niamh McCallan, Scot Davidson, Kok Yew Ng, Pardis Biglarbeigi, Dewar Finlay, Boon Leong Lan, James McLaughlin",preprints,2021,,Arxiv
+EEG-based Classification of Drivers Attention using Convolutional Neural Networks ,"Fred Atilla, Maryam Alimardani",preprints,2021,,Arxiv
+A SPA-based Manifold Learning Framework for Motor Imagery EEG Data Classification,"Xiangyun Li, Peng Chen, Zhanpeng Bao",preprints,2021,,Arxiv
+Classification of Upper Arm Movements from EEG signals using Machine Learning with ICA Analysis,"Pranali Kokate, Sidharth Pancholi, Amit M. Joshi",preprints,2021,,Arxiv
+EEG-ConvTransformer for Single-Trial EEG based Visual Stimuli Classification,"Subhranil Bagchi, Deepti R. Bathula",preprints,2021,,Arxiv
+Performance of OpenBCI EEG Binary Intent Classification with Laryngeal Imagery,"Samuel Kuhn, Nathan George",preprints,2021,,Arxiv
+Learning Signal Representations for EEG Cross-Subject Channel Selection and Trial Classification,"Michela C. Massi, Francesca Ieva",preprints,2021,,Arxiv
+EEG-GNN: Graph Neural Networks for Classification of Electroencephalogram (EEG) Signals,"Andac Demir, Toshiaki Koike-Akino, Ye Wang, Masaki Haruna, Deniz Erdogmus",preprints,2021,,Arxiv
+BRAIN2DEPTH: Lightweight CNN Model for Classification of Cognitive States from EEG Recordings,"Pankaj Pandey, Krishna Prasad Miyapuram",preprints,2021,,Arxiv
+Predicting speech intelligibility from EEG in a non-linear classification paradigm,"Bernd Accou, Mohammad Jalilpour Monesi, Hugo Van hamme, Tom Francart",preprints,2021,,Arxiv
+Classification of Motor Imagery EEG Signals by Using a Divergence Based Convolutional Neural Network,"Zumray Dokur, Tamer Olmez",preprints,2021,,Arxiv
+EEG-based Texture Roughness Classification in Active Tactile Exploration with Invariant Representation Learning Networks,"Ozan Ozdenizci, Safaa Eldeeb, Andac Demir, Deniz Erdogmus, Murat Akcakaya",preprints,2021,,Arxiv
+Geometric feature performance under downsampling for EEG classification tasks,"Bryan Bischof, Eric Bunch",preprints,2021,,Arxiv
+MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification,"Phairot Autthasan, Rattanaphon Chaisaen, Thapanun Sudhawiyangkul, Phurin Rangpong, Suktipol Kiatthaveephong, Nat Dilokthanakul, Gun Bhakdisongkhram, Huy Phan, Cuntai Guan, Theerawit Wilaiprasitporn",preprints,2021,,Arxiv
+EEG-Inception: An Accurate and Robust End-to-End Neural Network for EEG-based Motor Imagery Classification,"Ce Zhang, Young-Keun Kim, Azim Eskandarian",preprints,2021,,Arxiv
+Sinc-based convolutional neural networks for EEG-BCI-based motor imagery classification,"Alessandro Bria, Claudio Marrocco, Francesco Tortorella",preprints,2021,,Arxiv
+Emotional EEG Classification using Connectivity Features and Convolutional Neural Networks,"Seong-Eun Moon, Chun-Jui Chen, Cho-Jui Hsieh, Jane-Ling Wang, Jong-Seok Lee",preprints,2021,,Arxiv
+Resting-state EEG sex classification using selected brain connectivity representation,"Jean Li, Jeremiah D. Deng, Divya Adhia, Dirk de Ridder",preprints,2020,,Arxiv
+Light-Weight 1-D Convolutional Neural Network Architecture for Mental Task Identification and Classification Based on Single-Channel EEG,"Manali Saini, Udit Satija, Madhur Deo Upadhayay",preprints,2020,,Arxiv
+Classification of Tactile Perception and Attention on Natural Textures from EEG Signals,"Myoung-Ki Kim, Jeong-Hyun Cho, Ji-Hoon Jeong",preprints,2020,,Arxiv
+Correct block-design experiments mitigate temporal correlation bias in EEG classification,"Simone Palazzo, Concetto Spampinato, Joseph Schmidt, Isaak Kavasidis, Daniela Giordano, Mubarak Shah",preprints,2020,,Arxiv
+Comparison of Attention-based Deep Learning Models for EEG Classification,"Giulia Cisotto, Alessio Zanga, Joanna Chlebus, Italo Zoppis, Sara Manzoni, Urszula Markowska-Kaczmar",preprints,2020,,Arxiv
+A Review of Deep Learning Approaches to EEG-Based Classification of Cybersickness in Virtual Reality,Caglar Yildirim,preprints,2020,,Arxiv
+Deep learning-based classification of fine hand movements from low frequency EEG,"Giulia Bressan, Selina C. Wriessnegger, Giulia Cisotto",preprints,2020,,Arxiv
+Representation learning for improved interpretability and classification accuracy of clinical factors from EEG,"Garrett Honke, Irina Higgins, Nina Thigpen, Vladimir Miskovic, Katie Link, Sunny Duan, Pramod Gupta, Julia Klawohn, Greg Hajcak",preprints,2020,,Arxiv
+Deep learning-based i-EEG classification with convolutional neural networks for drug-target interaction prediction,"Konstantin Y. Kalitin, Alexey A. Nevzorov, Alexander A. Spasov, Petr I. Sotnikov",preprints,2020,,Arxiv
+Selection of Proper EEG Channels for Subject Intention Classification Using Deep Learning,"Ghazale Ghorbanzade, Zahra Nabizadeh-ShahreBabak, Shadrokh Samavi, Nader Karimi, Ali Emami, Pejman Khadivi",preprints,2020,,Arxiv
+Locked in Syndrome Machine Learning Classification using Sentence Comprehension EEG Data,Daniël van den Corput,preprints,2020,,Arxiv
+Classification and Recognition of Encrypted EEG Data Neural Network,"Yongshuang Liu, Haiping Huang, Fu Xiao, Reza Malekian, Wenming Wang",preprints,2020,,Arxiv
+Emotion-robust EEG Classification for Motor Imagery,Abdul Moeed,preprints,2020,,Arxiv
+Classification of Visual Perception and Imagery based EEG Signals Using Convolutional Neural Networks,"Ji-Seon Bang, Ji-Hoon Jeong, Dong-Ok Won",preprints,2020,,Arxiv
+Federated Transfer Learning for EEG Signal Classification,"Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, Cuntai Guan",preprints,2020,,Arxiv
+Multi-level Binarized LSTM in EEG Classification for Wearable Devices,"Najmeh Nazari, Seyed Ahmad Mirsalari, Sima Sinaei, Mostafa E. Salehi, Masoud Daneshtalab",preprints,2020,,Arxiv
